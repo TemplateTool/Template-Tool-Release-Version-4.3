@@ -5,6 +5,7 @@ The Template Tool (TT) is a Java-based software. TT is a fully functional applic
 TT saves the project files as EXtensible Markup Language (XML), and the various produced products export into HyperText Markup Language (HTML), JavaScript jQuery, Adobe Acrobat Portable Document Format (PDF), and Microsoft Word. A short (less than 5 minutes) YouTube video proposition for why an organization might need to use the software is posted here: https://www.youtube.com/watch?v=t9SJmoM30aE. A 90-second YouTube video for one of the features of TT is here: https://www.youtube.com/watch?v=UK5wyOaxqUI.
 
 ---Steps to Download and Run the Template Tool Software---
+
 1. Download the zipped document in this release with file name: TemplateToolSoftwareVersion4.3_And_LicenseFile.zip
 
 2. Unzip the TemplateToolSoftwareVersion4.3_And_LicenseFile.zip file on your computer.
